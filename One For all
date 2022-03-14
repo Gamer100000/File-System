@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T12:52:02.842Z" agent="5.0 (Windows)" version="16.5.6" etag="RRQC2ID1peEmVrlBXwjP" type="github"><diagram id="FUnM08e0loJrU-R3ax_S">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-14T13:09:35.985Z" agent="5.0 (Windows)" etag="dE9ZW8C_opOJUtrOpPC9" version="16.5.6" type="github">
+  <diagram id="FUnM08e0loJrU-R3ax_S" name="Page-1">
+    <mxGraphModel dx="1102" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="b6wqJpASUAzN7Q2ja33W-6" target="b6wqJpASUAzN7Q2ja33W-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="b6wqJpASUAzN7Q2ja33W-7" target="b6wqJpASUAzN7Q2ja33W-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-7" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.portal_admin;" vertex="1" parent="1">
+          <mxGeometry x="552.4" y="120" width="44.4" height="48.8" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="94.4" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-22-128.png" vertex="1" parent="b6wqJpASUAzN7Q2ja33W-8">
+          <mxGeometry x="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-2" value="Telegram Channel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="b6wqJpASUAzN7Q2ja33W-8">
+          <mxGeometry y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="529.6" y="240" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Bot_Services.svg;" vertex="1" parent="b6wqJpASUAzN7Q2ja33W-9">
+          <mxGeometry x="11" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-4" value="Telegram Bot " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="b6wqJpASUAzN7Q2ja33W-9">
+          <mxGeometry y="70" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b6wqJpASUAzN7Q2ja33W-1" target="b6wqJpASUAzN7Q2ja33W-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-12" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="546.8" y="168.8" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.508;entryY=1.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b6wqJpASUAzN7Q2ja33W-3" target="b6wqJpASUAzN7Q2ja33W-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-14" value="&lt;div&gt;Telegram Feedback &lt;br&gt;&lt;/div&gt;&lt;div&gt;manager bot&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-15" value="&lt;h2&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;One For All&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="320" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/unknown-128.png" vertex="1" parent="b6wqJpASUAzN7Q2ja33W-19">
+          <mxGeometry x="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-18" value="User, Channel follower or not" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="b6wqJpASUAzN7Q2ja33W-19">
+          <mxGeometry y="70" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.56;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="b6wqJpASUAzN7Q2ja33W-6" target="b6wqJpASUAzN7Q2ja33W-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-21" value="Raise Feedback" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="370" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-23" value="&lt;div&gt;Post&lt;/div&gt;&lt;div&gt;answers for users questions &lt;br&gt;&lt;/div&gt;&lt;div&gt;or answers.&lt;/div&gt;&lt;div&gt;/Replay &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="630" y="205" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="b6wqJpASUAzN7Q2ja33W-3" target="b6wqJpASUAzN7Q2ja33W-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-25" value="&lt;div&gt;Posts replies for &lt;br&gt;&lt;/div&gt;&lt;div&gt;the user.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="145" y="235" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-26" value="&lt;div&gt;Bot Description&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Creates bridges between users and admins&lt;/div&gt;&lt;div&gt;-Reduces chat traffic, especially for admins| who posts answers&lt;/div&gt;&lt;div&gt;-Used to send/answer a question for a specific question to a specific user.&lt;/div&gt;&lt;div&gt;If many channels use this bot and one person in many groups, the user can select a specific channel&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="430" y="385" width="570" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b6wqJpASUAzN7Q2ja33W-27" value="&lt;div&gt;Technologies&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pytelegram bot&lt;/div&gt;&lt;div&gt;django /Node - back-end&lt;br&gt;&lt;/div&gt;&lt;div&gt;mysql/postgres / Mongo database&lt;/div&gt;&lt;div&gt;git &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="615" y="480" width="200" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
