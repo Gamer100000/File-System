@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T14:51:21.973Z" agent="5.0 (Windows)" etag="jkJSHecpBvFB10Mk51uE" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-27T14:58:38.207Z" agent="5.0 (Windows)" etag="YEwPWiHjFlzRtKeFAhyx" version="16.5.6" type="github">
   <diagram id="CEBe01sJyw0Jl_JhIjyY" name="Page-1">
     <mxGraphModel dx="1102" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -539,6 +539,47 @@
         </mxCell>
         <mxCell id="EJpraWeL3WttItExpG0T-1" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Core Model - Images&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;* Multiple images will be uploaded&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;* The they will be converted in to PDF [1]&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;* For cover, 1 image can be taken&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Priority - Fault tolerance. [Conversion from image to PDF is Unstable]&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontFamily=Comic Sans MS;fontSize=14;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="75" y="2345" width="470" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="377" y="2530" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-2" value="" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#a0522d;strokeColor=#6D1F00;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;rounded=0;labelBorderColor=none;" vertex="1" parent="EJpraWeL3WttItExpG0T-7">
+          <mxGeometry width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-3" value="" style="sketch=0;outlineConnect=0;fillColor=#647687;strokeColor=#314354;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;rounded=0;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="EJpraWeL3WttItExpG0T-7">
+          <mxGeometry x="10" y="10" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;rounded=0;labelBorderColor=none;" vertex="1" parent="EJpraWeL3WttItExpG0T-7">
+          <mxGeometry x="20" y="20" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-8" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EJpraWeL3WttItExpG0T-4" target="EJpraWeL3WttItExpG0T-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="2680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-17" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.332;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EJpraWeL3WttItExpG0T-9" target="EJpraWeL3WttItExpG0T-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699147-icon-70-document-file-pdf-128.png;rounded=0;labelBorderColor=none;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="397.77000000000004" y="2680" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-10" value="Multiple Images will be uploaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="417.12" y="2620" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-11" value="They will be converted in to single PDF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="2760" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Every Files will have a color code.&lt;/div&gt;&lt;div&gt;Based on that a doc cover will be generated [School] [Important] List View&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;rounded=0;labelBorderColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2620" width="228.33" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-14" value="&lt;p style=&quot;line-height: 0&quot;&gt;&lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vKL0iV2hkkDbe1RsoPAC14Lcmlk4JeVTHA&amp;amp;usqp=CAU&quot; width=&quot;225&quot; height=&quot;225&quot;&gt;&lt;/p&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;rounded=0;labelBorderColor=none;sketch=0;" vertex="1" parent="EJpraWeL3WttItExpG0T-13">
+          <mxGeometry width="220" height="10" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Download-128.png;rounded=0;labelBorderColor=none;sketch=0;gradientColor=none;" vertex="1" parent="EJpraWeL3WttItExpG0T-13">
+          <mxGeometry x="12.56000000000006" y="97" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-18" value="View on the front-end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="2720" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
