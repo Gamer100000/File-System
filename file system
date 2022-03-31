@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T17:09:22.382Z" agent="5.0 (Windows)" etag="rMxOT7-HIzJY7WMvBAxT" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T15:45:43.728Z" agent="5.0 (Windows)" etag="nfX1xJk2-nmjlU1Y1z7D" version="17.2.6" type="github">
   <diagram id="CEBe01sJyw0Jl_JhIjyY" name="Page-1">
-    <mxGraphModel dx="1102" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,7 +231,7 @@
             <mxPoint x="433.72" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I-y60wXrao0YI2afqXRg-4" value="" style="shape=mxgraph.cisco.buildings.branch_office;html=1;pointerEvents=1;dashed=0;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;sketch=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="I-y60wXrao0YI2afqXRg-4" value="" style="shape=mxgraph.cisco.buildings.branch_office;html=1;pointerEvents=1;dashed=0;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;sketch=0;shadow=0;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="408.21999999999997" y="1140" width="51" height="75" as="geometry" />
         </mxCell>
         <mxCell id="I-y60wXrao0YI2afqXRg-21" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;shadow=1;curved=1;" parent="1" source="I-y60wXrao0YI2afqXRg-5" edge="1">
@@ -295,7 +295,7 @@
         <mxCell id="aK4X3vFehkSe-gHRyCZ4-1" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="700" y="690" width="325.19999999999993" height="323.6" as="geometry" />
         </mxCell>
-        <mxCell id="MRaE7g7A1U1nyG77tyoq-4" value="" style="shadow=1;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.portal_admin;sketch=0;" parent="aK4X3vFehkSe-gHRyCZ4-1" vertex="1">
+        <mxCell id="MRaE7g7A1U1nyG77tyoq-4" value="" style="shadow=1;dashed=0;html=1;strokeColor=#314354;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.portal_admin;sketch=0;fillColor=#647687;fontColor=#ffffff;" parent="aK4X3vFehkSe-gHRyCZ4-1" vertex="1">
           <mxGeometry x="135.79999999999995" width="54.4" height="58.8" as="geometry" />
         </mxCell>
         <mxCell id="MRaE7g7A1U1nyG77tyoq-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/office-icon-set-3/128/user_female2.png;sketch=1;" parent="aK4X3vFehkSe-gHRyCZ4-1" vertex="1">
@@ -488,53 +488,53 @@
         <mxCell id="MRaE7g7A1U1nyG77tyoq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;sketch=1;" parent="aK4X3vFehkSe-gHRyCZ4-6" source="MRaE7g7A1U1nyG77tyoq-1" target="MRaE7g7A1U1nyG77tyoq-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gxWX0jnWZ6V8PNat-NAD-1" target="gxWX0jnWZ6V8PNat-NAD-5" edge="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" parent="1" source="gxWX0jnWZ6V8PNat-NAD-1" target="gxWX0jnWZ6V8PNat-NAD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gxWX0jnWZ6V8PNat-NAD-1" target="gxWX0jnWZ6V8PNat-NAD-3" edge="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" parent="1" source="gxWX0jnWZ6V8PNat-NAD-1" target="gxWX0jnWZ6V8PNat-NAD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gxWX0jnWZ6V8PNat-NAD-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/School_Building.svg;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="1690" width="97.44" height="98.5" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.793;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gxWX0jnWZ6V8PNat-NAD-2" target="gxWX0jnWZ6V8PNat-NAD-4" edge="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.793;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" parent="1" source="gxWX0jnWZ6V8PNat-NAD-2" target="gxWX0jnWZ6V8PNat-NAD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-2" value="School" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-2" value="School" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="550" y="1788.5" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-3" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Long_Building.svg;" parent="1" vertex="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-3" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Long_Building.svg;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="720" y="1890" width="77.12" height="79.7" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gxWX0jnWZ6V8PNat-NAD-4" edge="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" parent="1" source="gxWX0jnWZ6V8PNat-NAD-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="2160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gxWX0jnWZ6V8PNat-NAD-4" edge="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" parent="1" source="gxWX0jnWZ6V8PNat-NAD-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="2160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-4" value="Department B" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Long_Building.svg;" parent="1" vertex="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-4" value="Department B" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Long_Building.svg;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="522.88" y="1960" width="77.12" height="79.7" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-5" value="Department A" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Long_Building.svg;" parent="1" vertex="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-5" value="Department A" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Long_Building.svg;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="340" y="1890" width="77.12" height="79.7" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-6" value="Department C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-6" value="Department C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="713.56" y="1969.7" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-128.png;" parent="1" vertex="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-128.png;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="590" y="2170" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-128.png;" parent="1" vertex="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-128.png;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="470" y="2168" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-16" value="Secretary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-16" value="Secretary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="465" y="2240" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gxWX0jnWZ6V8PNat-NAD-17" value="Dep. Head" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="gxWX0jnWZ6V8PNat-NAD-17" value="Dep. Head" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="588" y="2240" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EJpraWeL3WttItExpG0T-1" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Core Model - Images&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;* Multiple images will be uploaded&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;* The they will be converted in to PDF [1]&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;* For cover, 1 image can be taken&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Priority - Fault tolerance. [Conversion from image to PDF is Unstable]&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontFamily=Comic Sans MS;fontSize=14;labelBorderColor=none;fontColor=#ffffff;" parent="1" vertex="1">
@@ -563,13 +563,16 @@
         <mxCell id="EJpraWeL3WttItExpG0T-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699147-icon-70-document-file-pdf-128.png;rounded=0;labelBorderColor=none;sketch=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="397.77000000000004" y="2680" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="EJpraWeL3WttItExpG0T-10" value="Multiple Images will be uploaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;" parent="1" vertex="1">
+        <mxCell id="oyz_dnaoAlNALbgaFNgo-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="285" y="2490" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="EJpraWeL3WttItExpG0T-10" value="Multiple Images will be uploaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="417.12" y="2620" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EJpraWeL3WttItExpG0T-11" value="They will be converted in to single PDF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="EJpraWeL3WttItExpG0T-11" value="They will be converted in to single PDF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="305" y="2760" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EJpraWeL3WttItExpG0T-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Every Files will have a color code.&lt;/div&gt;&lt;div&gt;Based on that a doc cover will be generated [School] [Important] List View&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;rounded=0;labelBorderColor=none;sketch=0;" parent="1" vertex="1">
+        <mxCell id="EJpraWeL3WttItExpG0T-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Every Files will have a color code.&lt;/div&gt;&lt;div&gt;Based on that a doc cover will be generated [School] [Important] List View&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;rounded=0;labelBorderColor=none;sketch=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="690" y="2620" width="228.33" height="256" as="geometry" />
         </mxCell>
         <mxCell id="EJpraWeL3WttItExpG0T-14" value="&lt;p style=&quot;line-height: 0&quot;&gt;&lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vKL0iV2hkkDbe1RsoPAC14Lcmlk4JeVTHA&amp;amp;usqp=CAU&quot; width=&quot;225&quot; height=&quot;225&quot;&gt;&lt;/p&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;rounded=0;labelBorderColor=none;sketch=0;" parent="EJpraWeL3WttItExpG0T-13" vertex="1">
@@ -578,8 +581,8 @@
         <mxCell id="EJpraWeL3WttItExpG0T-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Download-128.png;rounded=0;labelBorderColor=none;sketch=0;gradientColor=none;" parent="EJpraWeL3WttItExpG0T-13" vertex="1">
           <mxGeometry x="12.56000000000006" y="97" width="62" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="EJpraWeL3WttItExpG0T-18" value="View on the front-end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="475" y="2720" width="130" height="20" as="geometry" />
+        <mxCell id="EJpraWeL3WttItExpG0T-18" value="View on the front-end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="470" y="2720" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WwcA_PW35PymYsZRk7ym-7" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="215.99" y="2910" width="264.01" height="520" as="geometry" />
@@ -608,11 +611,20 @@
         <mxCell id="WwcA_PW35PymYsZRk7ym-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Menu_Icon-128.png;rounded=1;shadow=1;glass=0;sketch=1;fontFamily=Comic Sans MS;strokeWidth=2;fillColor=none;" parent="WwcA_PW35PymYsZRk7ym-7" vertex="1">
           <mxGeometry x="204.01" y="10" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oyz_dnaoAlNALbgaFNgo-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="2490" width="350" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="oyz_dnaoAlNALbgaFNgo-2" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" vertex="1" parent="1">
+        <mxCell id="oyz_dnaoAlNALbgaFNgo-2" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" parent="1" vertex="1">
           <mxGeometry x="522.88" y="2510" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Naz6osIPZFSVEF3_ceHl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.843;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Naz6osIPZFSVEF3_ceHl-1" target="oyz_dnaoAlNALbgaFNgo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Naz6osIPZFSVEF3_ceHl-1" value="&lt;h1&gt;Images -&amp;gt; PDF&lt;br&gt;&lt;/h1&gt;&lt;p&gt;This conversion will take place on background. Meaning, after the images are uploaded, the user doesn&#39;t have to wait till the upload is complete.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="605" y="2950" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Naz6osIPZFSVEF3_ceHl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="Naz6osIPZFSVEF3_ceHl-3" target="oyz_dnaoAlNALbgaFNgo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Naz6osIPZFSVEF3_ceHl-3" value="&lt;div&gt;&lt;b&gt;Additional option to process the image&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Fit to paper&lt;/div&gt;&lt;div&gt;|This feature will work if the picture is taken in an appropriate way.&lt;/div&gt;&lt;div&gt;Meaning, the four curves of the letter must be visible on the picture,&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="98.5" y="2590" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
